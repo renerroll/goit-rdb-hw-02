@@ -2,6 +2,11 @@
 
 This project demonstrates the process of normalizing a database table through the three normal forms (1NF, 2NF, 3NF) and concludes with the creation of an Entity-Relationship (ER) diagram for the resulting database schema.
 
+### 1. **Proto-Form:**  
+Proto-Forma:  
+![Proto-Forma](2.png)
+
+
 ---
 
 ## Steps:
